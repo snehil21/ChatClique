@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26610017783",
+    "project_id": "chatclique-9ef01",
+    "storage_bucket": "chatclique-9ef01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26610017783:android:95f4caf16bb2bcc1d8faf2",
+        "android_client_info": {
+          "package_name": "com.example.chatclique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26610017783-sqeopsv81b6u5aje41dp3qsnmv5vnsev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGbYzvOuWCM3CAW16BBnram25aqdnCQfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26610017783-sqeopsv81b6u5aje41dp3qsnmv5vnsev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
