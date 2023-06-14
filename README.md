@@ -23,8 +23,8 @@ for communication and social interaction. This README file provides an overview 
 `**Image Uploading:**` ChatClique enables users to upload images to share with other users. By tapping on the image upload button,
                  users can select an image from their device's gallery and send it in a chat conversation.
 
-`**Chatting with Other Users:**` Registered users can search for and connect with other users on the app. Once connected, they can engage in real-time text-based conversations,
-                           send messages, and receive replies.
+`**Chatting with Other Users:**` Registered users can search for and connect with other users on the app. Once connected, they can engage in real-time text-based conversations,send messages, and receive replies.
+
 `**Message Deletion:**` ChatClique allows users to delete their sent messages. By long-pressing on a message in a chat conversation, users can access the message options
                           menu, which includes the delete option. Tapping on the delete option removes the message from the conversation.
                            
